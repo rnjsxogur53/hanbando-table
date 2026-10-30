@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.hanbando_table.twa",
+        "sha256_cert_fingerprints": ["B0:9B:6A:84:91:65:3C:45:EA:F6:62:3F:7A:A4:7D:57:53:E8:F2:39:A4:5C:59:E9:F6:16:95:25:AC:FA:39:10"]
+      }
+    }]
